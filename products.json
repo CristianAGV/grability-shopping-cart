@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nombre": "Arroz",
+            "unidad_precio": 2500,
+            "imagen": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "stock": 5
+        },
+        {
+            "id": 2,
+            "nombre": "Papas fritas",
+            "unidad_precio": 1200,
+            "imagen": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "stock": 3
+        },
+        {
+            "id": 3,
+            "nombre": "Tomate",
+            "unidad_precio": 2500,
+            "imagen": "https://images.unsplash.com/photo-1607305387299-a3d9611cd469?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "stock": 0
+        },
+        {
+            "id": 4,
+            "nombre": "Pasta larga",
+            "unidad_precio": 2300,
+            "imagen": "https://images.unsplash.com/photo-1612966874574-e0a92ad2bc43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "stock": 6
+        },
+        {
+            "id": 5,
+            "nombre": "Huevos",
+            "unidad_precio": 500,
+            "imagen": "https://images.unsplash.com/photo-1498654077810-12c21d4d6dc3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+            "stock": 2
+        }
+    ]
+}
