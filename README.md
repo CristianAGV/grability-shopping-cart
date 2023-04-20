@@ -1,5 +1,5 @@
 # grability-shopping-cart
-This is a small project for Grability to show my skills with React Native.
+Proyecto para el proceso de seleccion Grability.
 
 Hola Grability!
 Te comento unas cositas a tener en cuenta sobre como desarrolle la App:
@@ -8,4 +8,6 @@ Te comento unas cositas a tener en cuenta sobre como desarrolle la App:
 - Se genero un Apk para Android y para version web se hizo el deploy a Netlify.
 - El JSON  de productos lo trabaje de una manera en la que no se hicieran cambios directamente al JSON para que la app se pueda usar sin problemas al testear cualquier funcionalidad.
 - Para el manejo de estados se utilizo Redux Toolkit.
+
+Espero les guste la app, fue muy entretenido haberme encontrado con algunos errores que solucione en el camino :)
 
